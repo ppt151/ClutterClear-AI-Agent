@@ -60,3 +60,25 @@ ClutterClear aims to become an intelligent screenshot reasoning agent that helps
 
 This project is being developed for the Microsoft Agents League Contest under the "Reasoning Agents" challenge category.
 
+---
+
+# App Screenshots
+
+## Splash Screen
+![Splash Screen](screenshots/splash_screen.jpg)
+
+## Main Dashboard
+![Main Dashboard](screenshots/main_dashboard.jpg)
+
+## Sports Category View
+![Sports Category](screenshots/sports_category_view.jpg)
+
+## Multi-Select Delete System
+![Multi Select Delete](screenshots/multi_select_delete.jpg)
+
+## Create Custom Folder
+![Create Custom Folder](screenshots/create_custom_folder.jpg)
+
+## Smart Filter Dialog
+![Smart Filter Dialog](screenshots/smart_filter_dialog.jpg)
+
