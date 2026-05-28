@@ -1,6 +1,6 @@
 # ClutterClear AI Agent - Architecture Diagram
 
-
+```text
 +--------------------------------------------------+
 |               User Captures Screenshot           |
 +--------------------------------------------------+
@@ -63,6 +63,7 @@
 |  - Smart cleanup actions                         |
 |  - AI-powered screenshot management              |
 +--------------------------------------------------+
+```
 
 ---
 
@@ -80,4 +81,3 @@
 ## AI Agent Responsibilities
 
 The ClutterClear AI Agent performs intelligent reasoning on screenshots by analyzing textual and visual context, understanding screenshot intent, categorizing content, and assisting users with smart organization and cleanup workflows.
-
