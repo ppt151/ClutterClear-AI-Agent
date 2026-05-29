@@ -1,6 +1,6 @@
 # ClutterClear — AI Screenshot Agent
 
-ClutterClear is an AI-powered Android application that intelligently organizes screenshots using OCR, AI-based categorization, and smart cleanup suggestions.
+ClutterClear is an AI-powered Android application that intelligently organizes screenshots using OCR, AI-powered reasoning and intelligent categorization, and smart cleanup suggestions.
 
 The app helps users manage cluttered screenshot galleries by automatically analyzing screenshot content and grouping them into meaningful categories such as education, payments, documents, social media, and more.
 
@@ -47,6 +47,23 @@ The app helps users manage cluttered screenshot galleries by automatically analy
 - WorkManager
 - MediaStore API
 - Custom image preview system
+- Microsoft Foundry Agent Architecture
+- GitHub Copilot Assisted Development
+
+---
+
+## Microsoft AI Integration
+
+ClutterClear uses OCR and AI-powered reasoning workflows to intelligently understand screenshot context and automate screenshot organization.
+
+The architecture is designed around Microsoft Foundry Agent concepts, enabling:
+- multi-step screenshot reasoning
+- contextual understanding
+- intelligent categorization
+- cleanup recommendations
+- smart organization workflows
+
+GitHub Copilot was also used during development to accelerate coding, debugging, and workflow improvements.
 
 ---
 
