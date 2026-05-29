@@ -99,3 +99,5 @@ This project is being developed for the Microsoft Agents League Contest under th
 ## Smart Filter Dialog
 ![Smart Filter Dialog](screenshots/smart_filter_dialog.jpg)
 
+## Architecture Diagram
+![Architecture Diagram](docs/architecture_diagram.png)
